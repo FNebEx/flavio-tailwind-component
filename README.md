@@ -2,4 +2,4 @@
 
 This is my attempt at recreating Flavio's Tailwind component.
 
-The project has been uploaded to Netlify and Surge.
+The project has been uploaded to [Netlify](https://deft-gumdrop-905670.netlify.app/) and [Surge](http://quizzical-goldfish.surge.sh/).
