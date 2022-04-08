@@ -1,0 +1,20 @@
+{
+  "name": "flavio-tailwind-component",
+  "version": "1.0.0",
+  "description": "This is my attempt at recreating Flavio's Tailwind component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FNebEx/flavio-tailwind-component.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FNebEx/flavio-tailwind-component/issues"
+  },
+  "homepage": "https://github.com/FNebEx/flavio-tailwind-component#readme"
+}
